@@ -13,7 +13,7 @@
     "deploy": "node scripts/deploy.mjs",
     "catalog": "node scripts/catalog.mjs",
     "section": "node scripts/section.mjs",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build && node scripts/pages.mjs",
     "preview": "vite preview --host 127.0.0.1",
     "ui:add": "npx shadcn@4.21.5 add",
     "test:browser": "playwright test",

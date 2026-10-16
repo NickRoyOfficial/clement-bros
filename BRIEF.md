@@ -1,21 +1,11 @@
 # Clement Bros. Lawn & Landscape
-
-## Project
-- Repository: https://github.com/NickRoyOfficial/clement-bros
-- Branch: main
-- Worker: clement-bros
-- Starter commit: 4b11d1b33417012fbf36a94c86d0e1988d1ace42
-- Status: source initialized, design not complete.
-- Cloudflare: existing default npx wrangler deploy; prepare builds during npm ci.
-
-## Verified facts and sources
-- Unknown until research.
-
-## Direction and selected sections
-- Awaiting business-specific direction. Reuse src/components/sections/layouts.tsx before creating new layout code.
-
-## Assets and conversion
-- Map supplied assets and confirm contact destination before implementation.
-
-## Validation and deployment
-- Not yet reviewed or deployed. Keep noindex and concept disclosure until authorized launch.
+- Repository: https://github.com/NickRoyOfficial/clement-bros (main)
+- Starter: 1dce5d4ee09e090e549717014dd218f20c0146c6; foundation populated before implementation.
+- Cloudflare Worker: clement-bros. Empty build command, npx wrangler deploy. npm prepare builds dist during npm ci.
+- Approved: full-image 100svh hero, architectural layout, stone white and charcoal, original green logo, restrained serif display type, company photography, all current public pages.
+- Sources: https://www.clementbros.com/ and /services, /portfolio, /history-1, /staff, /careers, /contact, /files; verified sitemap /pages-sitemap.xml.
+- Public pages: home, services, history-1, staff, careers, portfolio, contact, files. Legacy ownership alias points to current team. Original files page contains an outdated Josh Wright staff entry; retained with explicit historical context because current staff page lists Ezekiel.
+- Facts: 1977 origins; 20 Clement Rd, Naples ME 04055; (207) 693-6646; info@clementbros.com. Mark Clement president, Lindsay office manager.
+- Company photos downloaded directly and optimized. public/assets/sources.json records original URLs. Alt text describes visible work; no invented project names or locations.
+- Inquiry form: manual email draft, never claims automatic delivery. Careers contact: mark@clementbros.com. Payment: existing external www.gobillandpay.com/clementbros portal; no custom payment collection.
+- Independent concept, noindex. No prospect contacted. Cloudflare project/live URL not yet supplied.
