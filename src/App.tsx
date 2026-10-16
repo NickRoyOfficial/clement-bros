@@ -7,7 +7,6 @@ import { Textarea } from '@/components/ui/textarea'
 import { Sheet, SheetContent, SheetTitle, SheetDescription, SheetTrigger } from '@/components/ui/sheet'
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from '@/components/ui/dialog'
 import { CardGrid, PhotoCard, Section, SectionHeading, SplitSection, InquiryDialogForm, FAQ } from '@/components/sections/layouts'
-import './site.css'
 
 const A='/assets/'
 const nav=[['Services','/services'],['Our story','/history-1'],['Our people','/staff'],['Portfolio','/portfolio'],['Contact','/contact']]
